@@ -1,6 +1,6 @@
 ## Comunicação entre 2 Redes no Packet Tracer
 
-## ![redes](https://github.com/user-attachments/assets/84a8bdfc-c867-4139-bcc8-88765f6e2a00)
+## ![Redes](projeto_redes.png)
 
 Este projeto representa a conexão entre 2 redes de alunos (A e B).
 
