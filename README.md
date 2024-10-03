@@ -16,6 +16,6 @@ O objetivo é validar o roteamento entre as redes.
 - 1 servidor Web na Rede B.
 
 ## Como Usar
-- Abra o arquivo projeto_redes.pkt no [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer);
+- Abra o arquivo `projeto_redes.pkt` no [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer);
 - Escolha a opção "Web Browser", na aba "Desktop" de um dos computadores;
 - Acesse o endereço `http://www.serverweb2ada.com` - o serviço de DNS foi configurado no servidor DHCP da Rede B.
